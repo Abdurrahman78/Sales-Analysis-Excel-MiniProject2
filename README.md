@@ -28,7 +28,7 @@ This project involves analyzing sales data over a period of 10 days. The data in
   - Sales were relatively low on the 3rd and 9th of January.
 
 ### Sales By Category
-![Sales By Category](https://media.discordapp.net/attachments/1261036357707366511/1261040709763596358/image.png?ex=6691832e&is=669031ae&hm=2a3a01d313b7c206a814d68fb46eba60c650a5afae46f3b0ace019ce2cd3f5c5&=&format=webp&quality=lossless&width=2520&height=928)
+![Sales By Category](https://media.discordapp.net/attachments/1261036357707366511/1261040709763596358/image.png?ex=66a93e2e&is=66a7ecae&hm=a4975a4d74f561c53c9259af1b0c855ca48f2f2746411ec95152261c4bc87ef8&=&format=webp&quality=lossless&width=2520&height=928)
 - **Chart Type:** Bar Chart (Pivot Table)
 - **Justification:** Bar charts are effective for comparing different groups. This chart shows the total sales for each category.
 - **Insights:** 
